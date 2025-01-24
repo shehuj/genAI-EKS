@@ -13,6 +13,7 @@ There is a vast eco-system of tools available to build and run models, even with
 ![Screenshot 2025-01-20 at 15 43 30](https://github.com/user-attachments/assets/534002cc-43ae-45c9-9220-5079a6bb16b5)
 
 JARK Architecture
+
 JupyterHub provides a shared platform for running notebooks that are popular in business, education, and research. It promotes interactive computing where users can execute code, visualize results, and work together. In the realm of GenAI, JupyterHub accelerates the experimentation process, especially in the feedback loop. It’s also where Data Engineers collaborate on models for Prompt Engineering.
 
 Argo Workflows  is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. It provides a structured and automated pipeline tailored for the fine-tuning of models.
